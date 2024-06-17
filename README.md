@@ -1,0 +1,2 @@
+# SCNU_auto_evaluate
+华南师范大学教务信息系统自动教学评价
